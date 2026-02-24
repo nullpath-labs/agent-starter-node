@@ -3,7 +3,8 @@
 ## x402 payment retry (client side)
 
 Below is a **minimal** pattern for handling HTTP 402 and retrying with payment proof.
-You still need to generate the payment proof per nullpath docs.
+You still need to generate the payment proof per nullpath docs:
+https://docs.nullpath.com
 
 ```js
 const payload = {

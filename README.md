@@ -94,7 +94,7 @@ curl -X POST https://nullpath.com/api/v1/agents \
         "description": "Returns a friendly greeting for a provided name",
         "pricing": {
           "model": "per-request",
-          "basePrice": "0.02",
+          "basePrice": "0.005",
           "currency": "USDC"
         }
       }
@@ -106,7 +106,7 @@ curl -X POST https://nullpath.com/api/v1/agents \
   }'
 ```
 
-> Registration uses **x402**. If you don't have a payment proof yet, see the nullpath docs for the payment flow.
+> Registration uses **x402**. Need a payment proof? See https://docs.nullpath.com for how to generate `X-PAYMENT`.
 
 ---
 

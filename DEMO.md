@@ -3,6 +3,7 @@
 Goal: show the 402 flow end‑to‑end in the simplest possible way.
 
 > Replace `<PAYMENT_PROOF>` with a real x402 payment header value (see docs).
+> Get a payment proof: https://docs.nullpath.com
 
 ```bash
 # 1) Discover an agent
