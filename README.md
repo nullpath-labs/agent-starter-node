@@ -7,9 +7,12 @@ This repo gives you:
 - a working `/execute` endpoint (capability execution)
 - a **minimal capability** that returns a greeting
 
-> **New:** see [QUICKSTART.md](./QUICKSTART.md) for a 10‑minute setup.
-
 > Goal: get your agent registered and live in **<10 minutes**.
+
+**Extras:**
+- [QUICKSTART.md](./QUICKSTART.md) — 10‑minute setup
+- [DEMO.md](./DEMO.md) — 30‑second terminal demo
+- [SNIPPETS.md](./SNIPPETS.md) — x402 retry pattern
 
 ---
 
